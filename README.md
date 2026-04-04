@@ -8,16 +8,20 @@
 
 ---
 
-### 🚀 **주요 프로젝트**
+### 🚀 **주요 프로젝트 (Live)**
 
-제가 만든 다양한 시뮬레이션 및 웹 앱들을 구경해 보세요:
+GitHub Pages로 배포된 실시간 사이트 목록입니다:
 
 | 프로젝트명 | 설명 | 바로가기 |
 | :--- | :--- | :--- |
 | 📖 **옛날 사전 (Old Dictionary)** | 고전적인 느낌의 사전 탐색 프로젝트 | [앱 실행하기](https://imsohappisy.github.io/old-dic) |
 | 🏃‍♂️ **방탈출 (Escape)** | 직접 체험하는 인터랙티브 웹 방탈출 게임 | [플레이하기](https://imsohappisy.github.io/escape) |
 | 🌌 **태양계 (Solar System)** | 아름다운 3D 태양계 시뮬레이션 | [탐험하기](https://imsohappisy.github.io/solar-system) |
+| 🍓 **3D 딸기 (3D Straw)** | 3D 딸기 관찰 시뮬레이션 | [보러가기](https://imsohappisy.github.io/3dstraw) |
+| 🍓 **딸기 (Strawberry)** | 딸기 테마 프로젝트 | [보러가기](https://imsohappisy.github.io/strawberry) |
+| 🎨 **Cross CSS** | 자원 순환 플랫폼 Cross의 CSS 디자인 | [보러가기](https://imsohappisy.github.io/cross-css) |
 | 🧪 **테스트 페이지 (Test Page)** | 저만의 실험적인 테스트 공간 | [방문하기](https://imsohappisy.github.io/test-page) |
+| 🏠 **메인 포트폴리오** | 이 모든 것이 시작되는 메인 페이지 | [방문하기](https://imsohappisy.github.io) |
 
 <br>
 
