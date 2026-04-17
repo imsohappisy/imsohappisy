@@ -21,7 +21,7 @@ GitHub Pages로 배포된 실시간 사이트 목록입니다:
 | 🍓 **딸기 (Strawberry)** | 딸기 테마 프로젝트 | [보러가기](https://imsohappisy.github.io/strawberry) |
 | 🎨 **Cross CSS** | 자원 순환 플랫폼 Cross의 CSS 디자인 | [보러가기](https://imsohappisy.github.io/cross-css) |
 | 🧪 **테스트 페이지 (Test Page)** | 저만의 실험적인 테스트 공간 | [방문하기](https://imsohappisy.github.io/test-page) |
-| 🏠 **메인 포트폴리오** | 이 모든 것이 시작되는 메인 페이지 | [방문하기](https://imsohappisy.github.io) |
+| 🧊 **젤리 게임** | 실험적 젤리 구현 물리엔진 | [방문하기](https://imsohappisy.github.io/jelly) |
 
 <br>
 
