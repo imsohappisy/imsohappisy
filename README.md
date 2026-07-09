@@ -1,5 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
+  
+  <br><br>
+
+  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
+    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="220" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); transition: transform 0.2s;">
+  </a>
+  <p align="center" style="margin-top: 10px;">
+    <strong>CodeLab 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.</strong>
+  </p>
 </div>
 
 <br>
@@ -10,9 +19,9 @@
 
 안녕하세요! 저는 웹 개발을 핵심 기반으로 삼아, 시각적인 물리 시뮬레이션과 참신하고 독특한 아이디어를 동작하는 소프트웨어로 설계하고 구현하는 것을 좋아하는 개발자입니다. 
 
+*   **CodeLab Core Member**: 협업과 지식 공유의 가치를 믿으며, 코드랩 팀의 일원으로서 다양한 프로젝트에 기여하고 지식을 나눕니다.
 *   **인터랙티브 물리 시뮬레이션**: 2D/3D 환경 내 젤리 물리 시뮬레이션 및 다차원 물리 엔진을 웹 환경 상에 부드럽게 재현해 내는 데 흥미가 있습니다.
 *   **실험적 아이디어 실현**: WebAssembly 기반의 독자적인 경량 컴파일 언어 설계 등 정형화된 틀을 벗어난 도전적이고 재밌는 예제 프로젝트들을 꾸준히 제작해 나가고 있습니다.
-*   **멀티 패러다임 구현**: 고성능 시스템 언어부터 유연한 웹 프론트엔드/백엔드 아키텍처까지 적합한 도구를 사용해 효율적인 웹 플랫폼 개발을 주도합니다.
 
 ---
 
@@ -23,6 +32,7 @@
   <img src="https://img.shields.io/badge/CSS3-161A22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-161A22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-161A22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  
   <img src="https://img.shields.io/badge/C-161A22?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
   <img src="https://img.shields.io/badge/Python-161A22?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/C%23-161A22?style=flat-square&logo=c-sharp&logoColor=239120" alt="C#">
@@ -38,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imsohappisy&show_icons=true&theme=tokyonight&hide_border=true" alt="imsohappisy Github Stats" width="48%">
-  <img src="https://github-readme-stats.github.io/github-readme-stats/monitor/src/top-langs/?username=imsohappisy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohappisy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%">
 </p>
 
 <hr>
