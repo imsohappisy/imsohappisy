@@ -1,16 +1,15 @@
 <div align="center">
-  <!-- 세련된 그라데이션 웨이브 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
 </div>
 
 <br>
 
 <p align="left">
-  <!-- 코드랩 로고 크기 확대(width="110") 및 alt 속성 정정 -->
-  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="110" style="vertical-align: middle; border-radius: 300px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); margin-right: 12px;">      
+  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="110" style="vertical-align: middle; border-radius: 300px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: block;">      
   </a>
-  <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">
+  &nbsp;&nbsp;
+  <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: inline-block;">
 </p>
 
 <br>
