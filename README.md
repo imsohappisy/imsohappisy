@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSO%20HAP%20PISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
 </div>
 
 <br>
