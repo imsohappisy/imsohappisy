@@ -5,11 +5,7 @@
 <br>
 
 <p align="left">
-  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="110" style="vertical-align: middle; border-radius: 300px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: block;">      
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: inline-block;">
+  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;"><img src="./codelab_logo.png" alt="CodeLab Team Logo" width="110" style="vertical-align: middle; border-radius: 300px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: block;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); display: inline-block;">
 </p>
 
 <br>
