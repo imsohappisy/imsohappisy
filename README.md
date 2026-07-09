@@ -1,16 +1,24 @@
 <div align="center">
+  <!-- 세련된 그라데이션 웨이브 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
 </div>
 
-<div align="left" style="display: flex; align-items: center; gap: 16px; margin: 20px 0; padding: 0 10px;">
-  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="120" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.25); display: block;">
-  </a>
-  <span style="font-size: 13.5px; color: #8B949E; line-height: 1.5;">
-    <strong>CodeLab</strong>팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
-  </span>
-</div>
+<!-- 깃허브 렌더러에서 정렬이 절대 깨지지 않는 테이블 레이아웃 (로고 크기 70px로 축소) -->
+<table border="0" cellpadding="0" cellspacing="0" align="left" style="border: none; border-collapse: collapse; margin: 15px 0;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 12px 0 0; vertical-align: middle;">
+      <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
+        <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); display: block;">
+      </a>
+    </td>
+    <td style="border: none; padding: 0; vertical-align: middle; font-size: 13.5px; color: #8B949E; line-height: 1.5;">
+      <strong>CodeLab</strong> 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
+    </td>
+  </tr>
+</table>
 
+<!-- 하단 본문과의 레이아웃 겹침 방지 -->
+<br clear="left">
 <br>
 
 ## About Me
