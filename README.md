@@ -8,7 +8,7 @@
 <!-- 두 로고 이미지의 모서리 둥글기 강도를 border-radius: 10px로 상향 조정 -->
 <p align="left">
   <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-    <img src="./codelab_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 30px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">      
+    <img src="./codelab_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 300px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">      
   </a>
   <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 10px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">
 </p>
