@@ -5,12 +5,15 @@
 
 <br>
 
-<!-- vertical-align: middle을 사용한 정밀한 수평 정렬 단락 -->
+<!-- 두 팀의 로고를 수평 정렬로 깔끔하게 배치 (태그 오류 수정 완료) -->
 <p align="left">
   <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 1px;">
-  </span>
+    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 12px;">
+  </a>
+  <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">
 </p>
+
+<br>
 
 ## About Me
 
