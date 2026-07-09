@@ -7,7 +7,7 @@
     <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="120" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.25); display: block;">
   </a>
   <span style="font-size: 13.5px; color: #8B949E; line-height: 1.5;">
-    <strong>CodeLab</strong> 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
+    <strong>CodeLab</strong>팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
   </span>
 </div>
 
