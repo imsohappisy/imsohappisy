@@ -10,9 +10,10 @@
   <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
     <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 12px;">
   </a>
-  <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">
 </p>
-
+<p align="left">
+    <img src="./sleaf_da_logo.png" alt="sleaf Da Logo" width="80" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.15);">
+</p>
 <br>
 
 ## About Me
