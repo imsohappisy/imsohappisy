@@ -9,7 +9,7 @@
 <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
   <img align="left" src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 12px; margin-top: 3px;">
 </a>
- 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
+팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
 </span>
 
 <br clear="left">
