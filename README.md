@@ -5,15 +5,12 @@
 
 <br>
 
-<!-- 이미지와 텍스트 내 "CodeLab" 단어 클릭 시 모두 새 탭으로 이동 -->
-<a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 12px; margin-top: 3px;">
-</a>
-팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
-</span>
-
-<br clear="left">
-<br>
+<!-- vertical-align: middle을 사용한 정밀한 수평 정렬 단락 -->
+<p align="left">
+  <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
+    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="70" style="vertical-align: middle; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2); margin-right: 1px;">
+  </span>
+</p>
 
 ## About Me
 
