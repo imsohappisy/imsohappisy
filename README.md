@@ -1,40 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요!%20반갑습니다&fontSize=50&fontAlignY=35&desc=자칭%20바이브%20코딩%20전문가%20imsohappisy의%20공간입니다&descAlignY=55&descAlign=50" alt="header banner" />
-
-  <h1>😎 자칭 바이브 코딩 전문가 😎</h1>
-  <h2>✨ 제가 만든 프로젝트들입니다 ✨</h2>
-  <p>다양한 아이디어를 실현하고, 재밌는 웹 게임과 인터랙티브한 요소들을 만들고 있습니다.</p>
+  <!-- 세련된 그라데이션 웨이브 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Systems%20%7C%20Interactive%20Web%20Runtimes%20%7C%20Graphics&descAlignY=58&descAlign=50" alt="header banner" width="100%">
 </div>
-
----
-
-### 🚀 **주요 프로젝트 (Live)**
-
-GitHub Pages로 배포된 실시간 사이트 목록입니다:
-
-| 프로젝트명 | 설명 | 바로가기 |
-| :--- | :--- | :--- |
-| 📖 **옛날 사전 (Old Dictionary)** | 고전적인 느낌의 사전 탐색 프로젝트 | [앱 실행하기](https://imsohappisy.github.io/old-dic) |
-| 🏃‍♂️ **방탈출 (Escape)** | 직접 체험하는 인터랙티브 웹 방탈출 게임 | [플레이하기](https://imsohappisy.github.io/escape) |
-| 🌌 **태양계 (Solar System)** | 아름다운 3D 태양계 시뮬레이션 | [탐험하기](https://imsohappisy.github.io/solar-system) |
-| 🍓 **3D 딸기 (3D Straw)** | 3D 딸기 관찰 시뮬레이션 | [보러가기](https://imsohappisy.github.io/3dstraw) |
-| 🍓 **딸기 (Strawberry)** | 딸기 테마 프로젝트 | [보러가기](https://imsohappisy.github.io/strawberry) |
-| 🎨 **Cross CSS** | 자원 순환 플랫폼 Cross의 CSS 디자인 | [보러가기](https://imsohappisy.github.io/cross-css) |
-| 🧪 **테스트 페이지 (Test Page)** | 저만의 실험적인 테스트 공간 | [방문하기](https://imsohappisy.github.io/test-page) |
-| 🧊 **젤리 게임** | 실험적 젤리 구현 물리엔진 | [방문하기](https://imsohappisy.github.io/jelly) |
 
 <br>
 
-### 🛠 **사용 기술 스택**
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-</p>
+> **"Exploring the intersection of high-level ease of use and low-level resource efficiency."**
+
+안녕하세요! 저는 WebAssembly와 컴파일러 최적화, 그리고 브라우저 내 고성능 인터랙티브 그래픽 시뮬레이션을 탐구하는 소프트웨어 엔지니어입니다.
+
+*   **컴파일러와 런타임 최적화**: 샌드박스 환경인 WebAssembly(Wasm)를 타겟으로 동작하는 독자적인 컴파일러 아키텍처 설계와 SROA(구조체 레지스터 승격), 루프 언롤링 등의 컴파일러 패스 최적화에 깊은 관심을 둡니다.
+*   **고성능 웹 그래픽스**: Three.js와 WebGL을 활용한 3D 시뮬레이션, 탄성체 젤리 물리 엔진 등 브라우저 런타임 성능을 극한으로 끌어올리는 인터랙티브 미디어를 구현합니다.
+*   **미니멀리즘 설계**: 불필요한 추상화나 의존성 오버헤드를 걷어내고, CPU와 메모리 레벨에서 가장 효율적인 코드를 작성하는 것을 목표로 합니다.
 
 ---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-161A22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-161A22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-161A22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-161A22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Three.js-161A22?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebAssembly-161A22?style=flat-square&logo=webassembly&logoColor=654FF0" alt="WebAssembly">
+</p>
+
+*   **Languages & Systems**: TypeScript / JavaScript (ES6+), WebAssembly (WAT / WASM)
+*   **Libraries & Web APIs**: Three.js, WebGL, Web Audio, Canvas 2D API
+*   **Testing & Tools**: Vitest, Jest, Esbuild, Git/GitHub, Node.js
+
+---
+
+## 📊 Git Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsohappisy&show_icons=true&theme=tokyonight&hide_border=true" alt="imsohappisy Github Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohappisy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%">
+</p>
+
+<hr>
+
 <div align="center">
-  <i>Made with ❤️ by imsohappisy</i>
+  <sub>Crafted with precision by <strong>imsohappisy</strong>.</sub>
 </div>
