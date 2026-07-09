@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=IMSOHAPPISY&fontSize=46&fontAlignY=38&desc=Web%20%7C%20Physics%20Simulation%20%7C%20Experimental%20Runtimes&descAlignY=58&descAlign=50" alt="header banner" width="100%">
-  
-  <br><br>
+</div>
 
+<div align="left" style="display: flex; align-items: center; gap: 16px; margin: 20px 0; padding: 0 10px;">
   <a href="https://codelabteam.com" target="_blank" rel="noopener noreferrer">
-    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="220" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); transition: transform 0.2s;">
+    <img src="./codelab_logo.png" alt="CodeLab Team Logo" width="120" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.25); display: block;">
   </a>
-  <p align="center" style="margin-top: 10px;">
-    <strong>CodeLab 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.</strong>
-  </p>
+  <span style="font-size: 13.5px; color: #8B949E; line-height: 1.5;">
+    <strong>CodeLab</strong> 팀의 일원으로서 함께 더 가치 있는 개발 생태계를 개척해 나갑니다.
+  </span>
 </div>
 
 <br>
@@ -19,7 +19,6 @@
 
 안녕하세요! 저는 웹 개발을 핵심 기반으로 삼아, 시각적인 물리 시뮬레이션과 참신하고 독특한 아이디어를 동작하는 소프트웨어로 설계하고 구현하는 것을 좋아하는 개발자입니다. 
 
-*   **CodeLab Core Member**: 협업과 지식 공유의 가치를 믿으며, 코드랩 팀의 일원으로서 다양한 프로젝트에 기여하고 지식을 나눕니다.
 *   **인터랙티브 물리 시뮬레이션**: 2D/3D 환경 내 젤리 물리 시뮬레이션 및 다차원 물리 엔진을 웹 환경 상에 부드럽게 재현해 내는 데 흥미가 있습니다.
 *   **실험적 아이디어 실현**: WebAssembly 기반의 독자적인 경량 컴파일 언어 설계 등 정형화된 틀을 벗어난 도전적이고 재밌는 예제 프로젝트들을 꾸준히 제작해 나가고 있습니다.
 
